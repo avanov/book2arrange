@@ -6,7 +6,7 @@ Arrange audio files from http://www.50languages.com/ in one convenient collectio
 Usage
 ----------
 
-.. code-block:: bash
+.. code-block:: guess
 
     $ book2arrange -h
     usage: book2arrange [-h] source target order [order ...]
