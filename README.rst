@@ -18,7 +18,8 @@ Usage
 
     $ book2arrange $HOME/book2source $HOME/Desktop/polyglot enfr ende
 
-    All listed directories must exist.
+
+Note: all listed directories must exist.
 
 
 .. code-block:: guess
