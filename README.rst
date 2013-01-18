@@ -14,6 +14,13 @@ Installation
 Usage
 ----------
 
+.. code-block:: bash
+
+    $ book2arrange $HOME/book2source $HOME/Desktop/polyglot enfr ende
+
+    All listed directories must exist.
+
+
 .. code-block:: guess
 
     $ book2arrange -h
