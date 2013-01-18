@@ -11,7 +11,7 @@ readme = open(os.path.join(os.path.dirname(__file__), 'README.rst')).read()
 
 setup(
     name='book2arrange',
-    version='0.0.1',
+    version='1.0.0',
     packages=find_packages(exclude=['tests']),
     install_requires=[],
     setup_requires=[],
@@ -41,7 +41,7 @@ setup(
     keywords="cli utils foreign language education",
     # See the full list on http://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
-        'Development Status :: 2 - Pre-Alpha',
+        'Development Status :: 5 - Production/Stable',
         'Environment :: Console',
         'Intended Audience :: Education',
         'Intended Audience :: End Users/Desktop',
