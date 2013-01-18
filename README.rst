@@ -19,6 +19,20 @@ Usage
     $ book2arrange $HOME/book2source $HOME/Desktop/polyglot enfr ende
 
 
+The command will extract and arrange audio files from book2 archives. The target
+files will have the following naming schema:
+
+.. code-block:: none
+
+    $HOME/Desktop/polyglot/00001_1_enfr.mp3
+    $HOME/Desktop/polyglot/00002_1_ende.mp3
+    $HOME/Desktop/polyglot/00003_2_enfr.mp3
+    $HOME/Desktop/polyglot/00004_2_ende.mp3
+    ...
+    $HOME/Desktop/polyglot/00199_100_enfr.mp3
+    $HOME/Desktop/polyglot/00200_100_ende.mp3
+
+
 Note: all listed directories must exist.
 
 
