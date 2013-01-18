@@ -33,7 +33,7 @@ files will have the following naming schema:
     $HOME/Desktop/polyglot/00200_100_ende.mp3
 
 
-Note: all listed directories must exist.
+Note: all listed directories and source zip-archives must exist.
 
 
 .. code-block:: guess
