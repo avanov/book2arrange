@@ -11,7 +11,7 @@ readme = open(os.path.join(os.path.dirname(__file__), 'README.rst')).read()
 
 setup(
     name='book2arrange',
-    version='1.0.0',
+    version='1.0.1',
     packages=find_packages(exclude=['tests']),
     install_requires=[],
     setup_requires=[],
