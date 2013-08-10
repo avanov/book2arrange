@@ -36,8 +36,8 @@ setup(
                 "convenient collection for better language acquisition.",
     long_description=readme,
     license="MIT",
-    url="https://github.com/2nd/book2arrange",
-    download_url="https://github.com/2nd/book2arrange",
+    url="https://github.com/avanov/book2arrange",
+    download_url="https://github.com/avanov/book2arrange",
     keywords="cli utils foreign language education",
     # See the full list on http://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
